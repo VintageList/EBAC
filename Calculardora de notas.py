@@ -98,6 +98,23 @@ while True:
     break
   else:
     print("\nOpção invalida!")
+#===========================================================================================================================================================================================================================================
 
+#Interface Esperada 
 
+# =================Calculadora de notas===============
+# ====================================================
+
+#  escolha a opção desejada:
+# 1. Criar a lista com o nome e a nota dos alunos
+# 2. Média da turma
+# 3. Variância
+# 4. Desvio Padrão
+# 5. Verificar aprovação de ano
+# 6. Imprime o dicionário
+# 7. Sair
+
+# Digite o número da sua escolha:7
+
+# Saindo do programa...
     
