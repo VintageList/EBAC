@@ -64,7 +64,7 @@ while True:
   print("5. Verificar aprovação de ano")
   print("6. Sair")
 
-  escolha = int(input("\nDigite o número da sua escolha:"))
+  escolha = int(input("\nDigite o número da sua escolha: "))
 
   if escolha == 1:
     alunos_notas, contador = Dicionario()
