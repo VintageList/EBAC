@@ -1,3 +1,25 @@
+# ====================================================================================================================================================
+
+# Faça uma análise detalhada dos dados, descubra quais dados gostaria de destacar e crie os seguintes gráficos:
+
+# Gráfico de Histograma
+
+# Gráfico de dispersão
+
+# Mapa de calor
+
+# Gráfico de barra
+
+# Gráfico de pizza
+
+# Gráfico de densidade
+
+# Gráfico de Regressão
+
+# Adicione títulos nos gráficos e nos eixos para ficar claro os objetivos dos gráficos
+
+# ====================================================================================================================================================
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -122,3 +144,4 @@ df['Gênero_V'] = df['Gênero_V'].str.title()
 # plt.xlabel('Nota (MinMax)')
 # plt.ylabel('Número de Avaliações (MinMax)')
 # plt.show()
+
